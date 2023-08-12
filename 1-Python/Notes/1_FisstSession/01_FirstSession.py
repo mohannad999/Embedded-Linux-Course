@@ -34,9 +34,13 @@ print("")
 print(40*'-')
 
 
-#################################3
-namecpp = input("please enter cpp flie : ")
-helloWorld='//this file had Created from python :) \n\n #include <iostream>\nusing namespace std;\n int main() {\n cout<<"Helloworld"<<endl;\nreturn 0;\n}'  
-fd = open(namecpp,"w+")
-fd.write(helloWorld)
-fd.colse()
+#################################
+# Create file c++ using python 
+# namecpp = input("please enter cpp flie : ")
+# helloWorld='//this file had Created from python :) \n\n #include <iostream>\nusing namespace std;\n int main() {\n cout<<"Helloworld"<<endl;\nreturn 0;\n}'  
+# fd = open(namecpp,"w+")
+# fd.write(helloWorld)
+# fd.colse()
+################################
+
+
