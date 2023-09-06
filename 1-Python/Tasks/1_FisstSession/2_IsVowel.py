@@ -1,4 +1,3 @@
-
 #write a program to test whether a passed letter is a vowel or not
 
 VowelCharacters={'e','o','u','i','a'}
