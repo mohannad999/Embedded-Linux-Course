@@ -6,12 +6,14 @@
 # 5- install cmake from extention
 # 6- install cmake tools from extention
 
+
+# this solution hava some issues ! 
 import pyautogui
 import time
 import os
 
 
-# keep in your mind the delay time depend on your pc performance
+# keep in your mind the delay time d+ teepend on your pc performance
 pyautogui.hotkey('win')
 time.sleep(1)
 pyautogui.write('vscode')  
